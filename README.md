@@ -6,3 +6,4 @@
   ![png](/slide5.PNG)
   ![png](/slide6.PNG)
  
+* csv파일은 용량문제로 별도 보관
